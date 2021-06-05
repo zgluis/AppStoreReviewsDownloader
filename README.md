@@ -1,6 +1,6 @@
 # AppStoreReviewsDownloader
 
-Ever wanted to download all reviews of your app from AppStore? That is what happened to me, I couldn't find a proper trusfuly tool to do it, so I created a rudimentary script that does the job.
+Ever wanted to download all reviews of your app from App Store? That is what happened to me, I couldn't find a proper trustfully tool to do it, so I created a rudimentary script that does the job.
 
 # How it works?
 
